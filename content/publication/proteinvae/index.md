@@ -32,7 +32,7 @@ tags:
 featured: false
 
 # links:
-- name: "JOURNAL LINK"
+- name: JOURNAL LINK
   url: "https://www.nature.com/articles/s42256-023-00787-2"
 url_pdf: ''
 url_code: 'https://doi.org/10.24433/CO.2530457.v2'
