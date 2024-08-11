@@ -31,7 +31,7 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 - name: JOURNAL LINK
   url: "https://www.nature.com/articles/s42256-023-00787-2"
 url_pdf: ''
