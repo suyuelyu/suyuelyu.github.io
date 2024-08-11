@@ -2,16 +2,16 @@
 # Display name
 title: Suyue Lyu
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Suyue
 last_name: Lyu
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Toronto
+    url: https://https://bme.utoronto.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:suyue.lyu@mail.utoronto.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/suyue-lyu-9b4657171/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=F0-BlH4AAAAJ
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Protein Design
+  - Deep Learning
+  - Therapeutic Protein
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biomedical Engineering
+    institution: University of Toronto
+    date_start: 2022-01-01
+    date_end: 2026-06-30
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MSc Bioengineering
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2019-09-01
+    date_end: 2021-12-21
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
+      GPA: 3.97/4.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Artificial Intelligence, Introduction to Data Mining
+      - Experiment Design & Optimization, Bioinformatics
+      - Computational Bioengineering, Quantitative Biotechnology
+  - area: BSc Biotechnology
+    institution: Beijing Normal University
+    date_start: 2014-09-01
+    date_end: 2019-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.86/4.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -182,5 +176,8 @@ awards:
 ---
 
 ## About Me
+I am a PhD student studying Biomedical Engineering at University of Toronto. My PhD supervisor is [Michael Garton](http://www.gartonlab.org/). My recent work includes developing a model for designing viral capsid proteins to evade pre-existing antibodies, published in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00787-2). I am currently working as a summer research intern at Microsoft Research New England Lab (BioML Team). Mentored by [Kevin K. Yang](https://yangkky.github.io/about/) and [Alex Lu](https://www.alexluresearch.com/), I am working on deep cross-species protein adaptation for protein deimmunization and other applications.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I come from a biology background with multiple wet lab research experience spanning different therapeutic topics. For my PhD, I shifted my focus to computational methods and deep learning in particular. I am enthusiastic about formulating therapeutic protein engineering problems into well-defined computational tasks, and applying generative modeling and other machine learning techniques to solve them. 
+
+Aside from research, I enjoy watching movies, listening to Jazz, biking, DIY, cooking, and painting. I am a proud mom of a cute tabby cat named Smelly. 
