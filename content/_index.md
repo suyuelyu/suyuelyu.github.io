@@ -55,7 +55,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/protien-vae
+          - publication
         exclude_featured: false
     design:
       view: citation
